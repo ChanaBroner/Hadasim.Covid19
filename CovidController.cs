@@ -178,8 +178,8 @@ namespace Covid_19.Controllers
                         Vaccine3Manufacturer = row.Field<string>("Vaccine3Manufacturer"),
                         Vaccine4Date = row.Field<DateTime?>("Vaccine4Date"),
                         Vaccine4Manufacturer = row.Field<string>("Vaccine4Manufacturer"),
-                        PositiveResultDate = row.Field<DateTime>("PositiveResultDate"),
-                        RecoveryDate = row.Field<DateTime>("RecoveryDate"),
+                        PositiveResultDate = row.Field<DateTime?>("PositiveResultDate"),
+                        RecoveryDate = row.Field<DateTime?>("RecoveryDate"),
                     };
 
                     employeeVaccinations.Add(employeeVaccination);
