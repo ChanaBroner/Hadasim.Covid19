@@ -12,6 +12,13 @@
 ##### GetEmployeePersonalDetailByID/212368435:
 ![image](https://github.com/ChanaBroner/Hadasim.Covid19/assets/125824958/f484fe3a-d6aa-496f-b963-0a55515acd0c)
 
+##### AddEmployeeVaccination:
+![image](https://github.com/ChanaBroner/Hadasim.Covid19/assets/125824958/2837e8df-ce43-42fb-aa50-e01b22cf79cc)
+
+##### GetEmployeeVaccinations:
+
+
+
 
 
 
