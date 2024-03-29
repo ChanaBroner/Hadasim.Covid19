@@ -16,6 +16,12 @@
 ![image](https://github.com/ChanaBroner/Hadasim.Covid19/assets/125824958/2837e8df-ce43-42fb-aa50-e01b22cf79cc)
 
 ##### GetEmployeeVaccinations:
+![image](https://github.com/ChanaBroner/Hadasim.Covid19/assets/125824958/7a951c80-0736-4ac0-879c-ca8f10e7b952)
+
+##### GetEmployeeVaccinationByID/212368435:
+![image](https://github.com/ChanaBroner/Hadasim.Covid19/assets/125824958/20548bc6-07ff-4a6e-b232-ca0c3cca3d8d)
+
+
 
 
 
